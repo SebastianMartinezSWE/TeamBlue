@@ -70,6 +70,17 @@ export default function Home() {
               Discord: EchoNxT#5263
             </p>
           </div>
+          <div className={styles.card}>
+            <h2>
+              MUTUNOOR AKSHAY KUMAR
+            </h2>
+            <p>
+              Github: @CatastropheDragonLord 
+            </p>
+            <p>
+              Discord: prince_a#1540
+            </p>
+          </div>
         </div>
         
 
