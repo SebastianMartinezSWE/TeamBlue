@@ -81,6 +81,17 @@ export default function Home() {
               Discord: prince_a#1540
             </p>
           </div>
+          <div className={styles.card}>
+            <h2>
+              Rajiv Dave
+            </h2>
+            <p>
+              Github: @RajivD45
+            </p>
+            <p>
+              Discord: Aries_Raja#3656
+            </p>
+          </div>
         </div>
         
 
